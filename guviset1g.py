@@ -1,4 +1,4 @@
 a=int(input())
-for a in range(a):
+for b in range(a):
    print("Hello")
   
