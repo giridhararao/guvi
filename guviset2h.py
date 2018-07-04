@@ -3,7 +3,7 @@ h=int(input())
 s1=list()
 x=0
 y=0
-for a in range((g+1),h)
+for a in range((g+1),h):
  ref=a
  ref1=a
  while(a>0):
