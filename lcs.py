@@ -45,8 +45,8 @@ def lcs(X, Y, m, n):
 
 i1 = input()
 i2 = input()
-a = len(s1)
-b = len(s2)
+a = len(i1)
+b = len(i2)
 if i1=='HELLO'  and i2=='HEXAGONAL' :
     print('HEL')
     sys.exit()
