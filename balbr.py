@@ -25,7 +25,7 @@ L2 = [''.join(x) for x in L1]
 L3 = []
 for i in L2 :
     if balbr(i) :
-        L3.append(x)
+        L3.append(i)
 out = []
 for i in L3 :
     if i not in out :
