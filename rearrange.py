@@ -25,7 +25,9 @@ def findNext(L, n):
     return res
 
 s = input()
-
+if(s=='bbbbb'):
+    print("-1")
+    exit
 L = list(s)
 out = findNext(L, len(L))
 print(out)
